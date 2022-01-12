@@ -1,0 +1,1091 @@
+[
+    {
+        "attribute": "Background",
+        "items": [
+            {
+                "name": "Farm",
+                "stock": 341,
+                "total": 5773,
+                "percentage": 6.82,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/0-Background/1000-farm.png"
+            },
+            {
+                "name": "Sunset",
+                "stock": 345,
+                "total": 5773,
+                "percentage": 6.9,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/0-Background/1000-sunset.png"
+            },
+            {
+                "name": "Space",
+                "stock": 362,
+                "total": 5773,
+                "percentage": 7.24,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/0-Background/1000-space.png"
+            },
+            {
+                "name": "City",
+                "stock": 370,
+                "total": 5773,
+                "percentage": 7.4,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/0-Background/1000-city.png"
+            },
+            {
+                "name": "Purple",
+                "stock": 680,
+                "total": 5773,
+                "percentage": 13.6,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/0-Background/2000-purple.png"
+            },
+            {
+                "name": "Orange",
+                "stock": 700,
+                "total": 5773,
+                "percentage": 14.0,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/0-Background/2000-orange.png"
+            },
+            {
+                "name": "Blue",
+                "stock": 703,
+                "total": 5773,
+                "percentage": 14.06,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/0-Background/2000-blue.png"
+            },
+            {
+                "name": "Pink",
+                "stock": 744,
+                "total": 5773,
+                "percentage": 14.88,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/0-Background/2000-pink.png"
+            },
+            {
+                "name": "Yellow",
+                "stock": 748,
+                "total": 5773,
+                "percentage": 14.96,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/0-Background/2000-yellow.png"
+            },
+            {
+                "name": "Green",
+                "stock": 780,
+                "total": 5773,
+                "percentage": 15.6,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/0-Background/2000-green.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Skin",
+        "items": [
+            {
+                "name": "Cyborg",
+                "stock": 83,
+                "total": 5773,
+                "percentage": 1.66,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/1-Skin/250-cyborg.png"
+            },
+            {
+                "name": "Rainbow",
+                "stock": 85,
+                "total": 5773,
+                "percentage": 1.7,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/1-Skin/250-rainbow.png"
+            },
+            {
+                "name": "Skeleton",
+                "stock": 88,
+                "total": 5773,
+                "percentage": 1.76,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/1-Skin/250-skeleton.png"
+            },
+            {
+                "name": "Zombie",
+                "stock": 88,
+                "total": 5773,
+                "percentage": 1.76,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/1-Skin/250-zombie.png"
+            },
+            {
+                "name": "Alien",
+                "stock": 112,
+                "total": 5773,
+                "percentage": 2.24,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/1-Skin/250-alien.png"
+            },
+            {
+                "name": "Polkadot",
+                "stock": 184,
+                "total": 5773,
+                "percentage": 3.68,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/1-Skin/500-polkadot.png"
+            },
+            {
+                "name": "Gold",
+                "stock": 196,
+                "total": 5773,
+                "percentage": 3.92,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/1-Skin/500-gold.png"
+            },
+            {
+                "name": "Green",
+                "stock": 350,
+                "total": 5773,
+                "percentage": 7.0,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/1-Skin/1000-green.png"
+            },
+            {
+                "name": "Cheetah",
+                "stock": 351,
+                "total": 5773,
+                "percentage": 7.02,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/1-Skin/1000-cheetah.png"
+            },
+            {
+                "name": "Purple",
+                "stock": 361,
+                "total": 5773,
+                "percentage": 7.22,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/1-Skin/1000-purple.png"
+            },
+            {
+                "name": "Red",
+                "stock": 364,
+                "total": 5773,
+                "percentage": 7.28,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/1-Skin/1000-red.png"
+            },
+            {
+                "name": "Zebra",
+                "stock": 379,
+                "total": 5773,
+                "percentage": 7.58,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/1-Skin/1000-zebra.png"
+            },
+            {
+                "name": "Black",
+                "stock": 382,
+                "total": 5773,
+                "percentage": 7.64,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/1-Skin/1000-black.png"
+            },
+            {
+                "name": "Orange",
+                "stock": 404,
+                "total": 5773,
+                "percentage": 8.08,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/1-Skin/1000-orange.png"
+            },
+            {
+                "name": "Yellow",
+                "stock": 758,
+                "total": 5773,
+                "percentage": 15.16,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/1-Skin/2000-yellow.png"
+            },
+            {
+                "name": "White",
+                "stock": 772,
+                "total": 5773,
+                "percentage": 15.44,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/1-Skin/2000-white.png"
+            },
+            {
+                "name": "Blue",
+                "stock": 816,
+                "total": 5773,
+                "percentage": 16.32,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/1-Skin/2000-blue.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Chain",
+        "items": [
+            {
+                "name": "Diamond",
+                "stock": 216,
+                "total": 5773,
+                "percentage": 4.32,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/2-Chain/300-diamond.png"
+            },
+            {
+                "name": "Gold",
+                "stock": 380,
+                "total": 5773,
+                "percentage": 7.6,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/2-Chain/500-gold.png"
+            },
+            {
+                "name": "Silver",
+                "stock": 745,
+                "total": 5773,
+                "percentage": 14.9,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/2-Chain/1000-silver.png"
+            },
+            {
+                "name": "None",
+                "stock": 4432,
+                "total": 5773,
+                "percentage": 88.64,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/2-Chain/6000-none.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Hair",
+        "items": [
+            {
+                "name": "Rainbow",
+                "stock": 357,
+                "total": 5773,
+                "percentage": 7.14,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/3-Hair/500-rainbow.png"
+            },
+            {
+                "name": "Gold",
+                "stock": 365,
+                "total": 5773,
+                "percentage": 7.3,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/3-Hair/500-gold.png"
+            },
+            {
+                "name": "Purple",
+                "stock": 555,
+                "total": 5773,
+                "percentage": 11.1,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-Hair/800-purple.png"
+            },
+            {
+                "name": "Green",
+                "stock": 561,
+                "total": 5773,
+                "percentage": 11.22,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-Hair/800-green.png"
+            },
+            {
+                "name": "Blue",
+                "stock": 577,
+                "total": 5773,
+                "percentage": 11.54,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-Hair/800-blue.png"
+            },
+            {
+                "name": "Red",
+                "stock": 583,
+                "total": 5773,
+                "percentage": 11.66,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-Hair/800-red.png"
+            },
+            {
+                "name": "Yellow",
+                "stock": 584,
+                "total": 5773,
+                "percentage": 11.68,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-Hair/800-yellow.png"
+            },
+            {
+                "name": "Orange",
+                "stock": 717,
+                "total": 5773,
+                "percentage": 14.34,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-Hair/1000-orange.png"
+            },
+            {
+                "name": "Black",
+                "stock": 721,
+                "total": 5773,
+                "percentage": 14.42,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-Hair/1000-black.png"
+            },
+            {
+                "name": "White",
+                "stock": 753,
+                "total": 5773,
+                "percentage": 15.06,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/3-Hair/1000-white.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Clothes",
+        "items": [
+            {
+                "name": "Invigaron",
+                "stock": 184,
+                "total": 5773,
+                "percentage": 3.68,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-invigaron.png"
+            },
+            {
+                "name": "Heff",
+                "stock": 200,
+                "total": 5773,
+                "percentage": 4.0,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-heff.png"
+            },
+            {
+                "name": "Naked",
+                "stock": 201,
+                "total": 5773,
+                "percentage": 4.02,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-naked.png"
+            },
+            {
+                "name": "Black Suit",
+                "stock": 203,
+                "total": 5773,
+                "percentage": 4.06,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-black suit.png"
+            },
+            {
+                "name": "Green Suit",
+                "stock": 205,
+                "total": 5773,
+                "percentage": 4.1,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-green suit.png"
+            },
+            {
+                "name": "Akatsuki",
+                "stock": 210,
+                "total": 5773,
+                "percentage": 4.2,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-akatsuki.png"
+            },
+            {
+                "name": "Striped",
+                "stock": 210,
+                "total": 5773,
+                "percentage": 4.2,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-striped-shirt.png"
+            },
+            {
+                "name": "Blackhoodie",
+                "stock": 211,
+                "total": 5773,
+                "percentage": 4.22,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-blackhoodie.png"
+            },
+            {
+                "name": "Hokage",
+                "stock": 219,
+                "total": 5773,
+                "percentage": 4.38,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-hokage.png"
+            },
+            {
+                "name": "Police",
+                "stock": 220,
+                "total": 5773,
+                "percentage": 4.4,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-police.png"
+            },
+            {
+                "name": "Pyramid",
+                "stock": 220,
+                "total": 5773,
+                "percentage": 4.4,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-pyramid.png"
+            },
+            {
+                "name": "Suspenders",
+                "stock": 221,
+                "total": 5773,
+                "percentage": 4.42,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-suspenders.png"
+            },
+            {
+                "name": "Army",
+                "stock": 225,
+                "total": 5773,
+                "percentage": 4.5,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-army.png"
+            },
+            {
+                "name": "Doctor",
+                "stock": 226,
+                "total": 5773,
+                "percentage": 4.52,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-doctor.png"
+            },
+            {
+                "name": "Prisoner",
+                "stock": 227,
+                "total": 5773,
+                "percentage": 4.54,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-prisoner.png"
+            },
+            {
+                "name": "Poncho",
+                "stock": 229,
+                "total": 5773,
+                "percentage": 4.58,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-poncho.png"
+            },
+            {
+                "name": "Leather",
+                "stock": 230,
+                "total": 5773,
+                "percentage": 4.6,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-leather-jacket.png"
+            },
+            {
+                "name": "Roman",
+                "stock": 230,
+                "total": 5773,
+                "percentage": 4.6,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-roman.png"
+            },
+            {
+                "name": "Turtleneck",
+                "stock": 232,
+                "total": 5773,
+                "percentage": 4.64,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-turtleneck.png"
+            },
+            {
+                "name": "Bitconnect",
+                "stock": 239,
+                "total": 5773,
+                "percentage": 4.78,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-bitconnect.png"
+            },
+            {
+                "name": "Sailor",
+                "stock": 248,
+                "total": 5773,
+                "percentage": 4.96,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-sailor.png"
+            },
+            {
+                "name": "Tie",
+                "stock": 250,
+                "total": 5773,
+                "percentage": 5.0,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/5-Clothes/320-tie-dye.png"
+            },
+            {
+                "name": "Flannel",
+                "stock": 336,
+                "total": 5773,
+                "percentage": 6.72,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/5-Clothes/500-flannel.png"
+            },
+            {
+                "name": "White",
+                "stock": 597,
+                "total": 5773,
+                "percentage": 11.94,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/5-Clothes/320-white-suit.png"
+            },
+            {
+                "name": "White",
+                "stock": 597,
+                "total": 5773,
+                "percentage": 11.94,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/5-Clothes/500-white-hoodie.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Mouth",
+        "items": [
+            {
+                "name": "Cigarette",
+                "stock": 150,
+                "total": 5773,
+                "percentage": 3.0,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/6-mouth/300-cigarette.png"
+            },
+            {
+                "name": "Vape",
+                "stock": 169,
+                "total": 5773,
+                "percentage": 3.38,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/6-mouth/300-vape.png"
+            },
+            {
+                "name": "Grill",
+                "stock": 199,
+                "total": 5773,
+                "percentage": 3.98,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/6-mouth/350-grill.png"
+            },
+            {
+                "name": "Cigar",
+                "stock": 205,
+                "total": 5773,
+                "percentage": 4.1,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/6-mouth/300-cigar.png"
+            },
+            {
+                "name": "Party",
+                "stock": 250,
+                "total": 5773,
+                "percentage": 5.0,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/6-mouth/500-party.png"
+            },
+            {
+                "name": "Frown",
+                "stock": 281,
+                "total": 5773,
+                "percentage": 5.62,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/6-mouth/500-frown.png"
+            },
+            {
+                "name": "Apple",
+                "stock": 309,
+                "total": 5773,
+                "percentage": 6.18,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/6-mouth/500-apple.png"
+            },
+            {
+                "name": "Pipe",
+                "stock": 309,
+                "total": 5773,
+                "percentage": 6.18,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/6-mouth/500-pipe.png"
+            },
+            {
+                "name": "Smile",
+                "stock": 544,
+                "total": 5773,
+                "percentage": 10.88,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/6-mouth/1000-smile.png"
+            },
+            {
+                "name": "Grin",
+                "stock": 1652,
+                "total": 5773,
+                "percentage": 33.04,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/6-mouth/3000-grin.png"
+            },
+            {
+                "name": "Normal",
+                "stock": 1705,
+                "total": 5773,
+                "percentage": 34.1,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/6-mouth/3000-normal.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Eyes",
+        "items": [
+            {
+                "name": "Googly",
+                "stock": 463,
+                "total": 5773,
+                "percentage": 9.26,
+                "rarity": "Rare",
+                "color": "#0070dd",
+                "path": "assets/7-Eyes/200-googly.png"
+            },
+            {
+                "name": "Closed",
+                "stock": 708,
+                "total": 5773,
+                "percentage": 14.16,
+                "rarity": "Uncommon",
+                "color": "#6bca06",
+                "path": "assets/7-Eyes/300-closed.png"
+            },
+            {
+                "name": "Regular",
+                "stock": 4602,
+                "total": 5773,
+                "percentage": 92.04,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/7-Eyes/2000-regular.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Glasses",
+        "items": [
+            {
+                "name": "Solana",
+                "stock": 97,
+                "total": 5773,
+                "percentage": 1.94,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/8-Glasses/200-solana.png"
+            },
+            {
+                "name": "Tron",
+                "stock": 112,
+                "total": 5773,
+                "percentage": 2.24,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/8-Glasses/200-tron.png"
+            },
+            {
+                "name": "Gold",
+                "stock": 123,
+                "total": 5773,
+                "percentage": 2.46,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/8-Glasses/200-gold-glasses.png"
+            },
+            {
+                "name": "3D",
+                "stock": 129,
+                "total": 5773,
+                "percentage": 2.58,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/8-Glasses/200-3D.png"
+            },
+            {
+                "name": "Viper",
+                "stock": 129,
+                "total": 5773,
+                "percentage": 2.58,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/8-Glasses/200-viper.png"
+            },
+            {
+                "name": "Shutter",
+                "stock": 242,
+                "total": 5773,
+                "percentage": 4.84,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/8-Glasses/455-shutter.png"
+            },
+            {
+                "name": "Glasses",
+                "stock": 260,
+                "total": 5773,
+                "percentage": 5.2,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/8-Glasses/455-glasses.png"
+            },
+            {
+                "name": "Monocle",
+                "stock": 262,
+                "total": 5773,
+                "percentage": 5.24,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/8-Glasses/455-monocle.png"
+            },
+            {
+                "name": "Purple",
+                "stock": 262,
+                "total": 5773,
+                "percentage": 5.24,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/8-Glasses/455-purple-glasses.png"
+            },
+            {
+                "name": "Clout",
+                "stock": 267,
+                "total": 5773,
+                "percentage": 5.34,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/8-Glasses/455-clout-goggles.png"
+            },
+            {
+                "name": "Blue",
+                "stock": 273,
+                "total": 5773,
+                "percentage": 5.46,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/8-Glasses/455-blue-glasses.png"
+            },
+            {
+                "name": "Green",
+                "stock": 277,
+                "total": 5773,
+                "percentage": 5.54,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/8-Glasses/455-green-glasses.png"
+            },
+            {
+                "name": "Pink",
+                "stock": 289,
+                "total": 5773,
+                "percentage": 5.78,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/8-Glasses/455-pink-glasses.png"
+            },
+            {
+                "name": "Naked",
+                "stock": 3051,
+                "total": 5773,
+                "percentage": 61.02,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/8-Glasses/5000-naked.png"
+            }
+        ]
+    },
+    {
+        "attribute": "Hat",
+        "items": [
+            {
+                "name": "Crown",
+                "stock": 57,
+                "total": 5773,
+                "percentage": 1.14,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/9-Hat/100-crown.png"
+            },
+            {
+                "name": "Spartan",
+                "stock": 61,
+                "total": 5773,
+                "percentage": 1.22,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/9-Hat/100-spartan.png"
+            },
+            {
+                "name": "Halo",
+                "stock": 62,
+                "total": 5773,
+                "percentage": 1.24,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/9-Hat/100-halo.png"
+            },
+            {
+                "name": "Viking",
+                "stock": 65,
+                "total": 5773,
+                "percentage": 1.3,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/9-Hat/100-viking.png"
+            },
+            {
+                "name": "Unicorn",
+                "stock": 73,
+                "total": 5773,
+                "percentage": 1.46,
+                "rarity": "Legendary",
+                "color": "#ff8000",
+                "path": "assets/9-Hat/100-unicorn.png"
+            },
+            {
+                "name": "White Top Hat",
+                "stock": 231,
+                "total": 5773,
+                "percentage": 4.62,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-white top hat.png"
+            },
+            {
+                "name": "Pirate",
+                "stock": 237,
+                "total": 5773,
+                "percentage": 4.74,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-pirate-hat.png"
+            },
+            {
+                "name": "Sombrero",
+                "stock": 238,
+                "total": 5773,
+                "percentage": 4.76,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-sombrero.png"
+            },
+            {
+                "name": "Protagonist",
+                "stock": 239,
+                "total": 5773,
+                "percentage": 4.78,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-protagonist.png"
+            },
+            {
+                "name": "Beanie",
+                "stock": 242,
+                "total": 5773,
+                "percentage": 4.84,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-beanie.png"
+            },
+            {
+                "name": "Straw Hat",
+                "stock": 243,
+                "total": 5773,
+                "percentage": 4.86,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-straw hat.png"
+            },
+            {
+                "name": "Ninja",
+                "stock": 245,
+                "total": 5773,
+                "percentage": 4.9,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-ninja.png"
+            },
+            {
+                "name": "Whitecowboy",
+                "stock": 245,
+                "total": 5773,
+                "percentage": 4.9,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-whitecowboy.png"
+            },
+            {
+                "name": "Green",
+                "stock": 249,
+                "total": 5773,
+                "percentage": 4.98,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-green-top-hat.png"
+            },
+            {
+                "name": "Party",
+                "stock": 254,
+                "total": 5773,
+                "percentage": 5.08,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-party.png"
+            },
+            {
+                "name": "Propeller",
+                "stock": 255,
+                "total": 5773,
+                "percentage": 5.1,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-propeller-hat.png"
+            },
+            {
+                "name": "Police",
+                "stock": 258,
+                "total": 5773,
+                "percentage": 5.16,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-police-hat.png"
+            },
+            {
+                "name": "Pinkcowboy",
+                "stock": 260,
+                "total": 5773,
+                "percentage": 5.2,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-pinkcowboy.png"
+            },
+            {
+                "name": "Tophat",
+                "stock": 263,
+                "total": 5773,
+                "percentage": 5.26,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-tophat.png"
+            },
+            {
+                "name": "Sailor",
+                "stock": 269,
+                "total": 5773,
+                "percentage": 5.38,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-sailor.png"
+            },
+            {
+                "name": "Browncowboy",
+                "stock": 280,
+                "total": 5773,
+                "percentage": 5.6,
+                "rarity": "Epic",
+                "color": "#a335ee",
+                "path": "assets/9-Hat/350-browncowboy.png"
+            },
+            {
+                "name": "Naked",
+                "stock": 1447,
+                "total": 5773,
+                "percentage": 28.94,
+                "rarity": "Common",
+                "color": "#a0a0a0",
+                "path": "assets/9-Hat/2000-naked.png"
+            }
+        ]
+    }
+]
